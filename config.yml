@@ -48,6 +48,7 @@ options:
       - '192.168'
       - '172.17'
       - '172.30'
+      - '10.'
   library:
     name: 'Hassio music'
     password: ''
