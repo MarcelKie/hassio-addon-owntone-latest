@@ -29,6 +29,7 @@ host_network: false
 host_dbus: false
 host_ipc: false
 ingress: true
+init: false
 hassio_api: false
 auth_api: true
 hassio_role: "default"
